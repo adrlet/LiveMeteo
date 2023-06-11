@@ -1,0 +1,11 @@
+INSERT INTO reports
+(coordinates, category, rating, temperature, wind, user_id, created_at, updated_at, deleted_at)
+VALUES
+    (POINT(40.71727401, -74.00898606),
+     'SUNNY',
+     5,
+     5,
+     'WEAK',
+     1,
+     '2022-05-19 09:34:20',
+     '2022-05-19 09:34:20',null)

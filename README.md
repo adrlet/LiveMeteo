@@ -1,0 +1,1 @@
+Projekt zespołowy w ramach zajęć studyjnych projekt zespołowy z firmą Lastlevel Ad Tech Software, zakładał utworzenie aplikacji mobilnej do tworzenia i współdzielenia raportowych pogodów przez klientów aplikacji. Kod źródłowy przedstawia back-end aplikacji we framework'u PHP Laraval.
